@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4-5-18
 
 ### Student Name:  
-(First and Last Name)
+Trevor McCowen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Added javascript code to brownie recipe webpage, that added multiple dynamic features to the webpage in order to increase interactivity.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://tmccowen.github.io/lesson7_jquery/. 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Event listeners to toggle display function when clicking in a certain area of the webpage.
+2. Change the background color of an element when the mouse hovers over it.
+3. Toggle animation after current target is triggered by an event, in this case clicking.
 
